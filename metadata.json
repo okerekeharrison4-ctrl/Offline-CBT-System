@@ -1,0 +1,5 @@
+{
+  "name": "Offline CBT System",
+  "description": "A secure, offline, computer-based examination system for schools running on Chromebooks without internet.",
+  "requestFramePermissions": []
+}
